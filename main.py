@@ -1,4 +1,1 @@
-variable = input("What's ur name")
-
-
-print(variable)
+print(-4**2)
