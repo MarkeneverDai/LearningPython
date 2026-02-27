@@ -1,1 +1,2 @@
-"New Year"
+x = "hello"
+x
